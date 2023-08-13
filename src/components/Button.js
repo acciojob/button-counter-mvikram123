@@ -3,7 +3,7 @@ import React,{useState} from "react";
 
 
 const Button=()=>{
-    let[count,setCount]=useState(0)
+    let[count,setCount]=useState(1)
     
 
 function increase(){
