@@ -14,7 +14,7 @@ function increase(){
 
         <div>
              <p>Button clicked me {count} times</p>
-                <button onClick={increase}>click me</button>
+                <button onClick={increase}>Click me</button>
                
         </div>
 
